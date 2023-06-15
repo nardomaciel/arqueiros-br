@@ -10,7 +10,12 @@ body {
     padding: 20px;
     text-align: center;
   }
-
+   img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    
+  }
   nav {
     background-color: #555;
     color: #fff;
