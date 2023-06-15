@@ -5,16 +5,16 @@ body {
     padding: 0;
 }
 
-header {
+head {
     background-color: #333;
     color: #fff;
     padding: 20px;
     text-align: center;
 }
 
-nav {
-    background-color: #444;
-    color: #552a2a;
+div {
+    background-color: #fcf6f6;
+    color: #663131;
     padding: 10px;
     text-align: center;
 }
