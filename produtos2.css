@@ -13,9 +13,9 @@ head {
 }
 
 div {
-    background-color: #fcf6f6;
-    color: #663131;
-    padding: 10px;
+    background-color: #815959;
+    color: #311313;
+    padding: 8px;
     text-align: center;
 }
 
@@ -31,7 +31,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #201212;
+    color: #863f3f;
     text-decoration: none;
 }
 
